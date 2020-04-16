@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\obj\Debug\netcoreapp3.1\WireBrainCoffee.ShopInfoTool.AssemblyInfo.cs" Link="WireBrainCoffee.ShopInfoTool.AssemblyInfo.cs" />
+  </ItemGroup>
+
+</Project>
